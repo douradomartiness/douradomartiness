@@ -2,7 +2,7 @@
 
 Meu  nome  é gabrielli
 
--  Estou estudando  na  Alura
+-  Estou estudando  na  [Alura](https://www.alura.com.br)
 -  Estou me desenvolvendo na Linguagem JavaScript
 -  Ultilizo  esse espaço para minha organizaç e  compartilhamento dos meus projetos desenvolvidos
 
